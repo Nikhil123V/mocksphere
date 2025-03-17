@@ -7,7 +7,7 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Interview So N - Modern Interview Platform",
+  title: "MockSohere - Modern Interview Platform",
   description: "Practice, connect, and perfect your interview skills",
     generator: 'v0.dev'
 }
