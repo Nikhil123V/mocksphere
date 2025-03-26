@@ -43,7 +43,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold text-slate-900 dark:text-white mb-6">
             Ace Your Next Interview with{" "}
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-indigo-600">
-              MockSpohere
+              MockSphere
             </span>
           </h1>
           <p className="text-lg md:text-xl text-slate-700 dark:text-slate-300 mb-8">
