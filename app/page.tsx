@@ -102,7 +102,7 @@ export default function Home() {
               icon={<Users className="h-10 w-10 text-purple-600" />}
               title="Person-to-Person"
               description="Schedule mock interviews with professionals in your field for personalized feedback."
-              link="/peer-interview"
+              link="https://mock-interview-self.vercel.app/"
               delay={0.3}
             />
           </div>
