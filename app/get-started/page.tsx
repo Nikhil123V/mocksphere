@@ -118,7 +118,7 @@ export default function GetStartedPage() {
                   </ul>
                 </div>
                 <Button asChild className="w-full bg-purple-600 hover:bg-purple-700">
-                  <Link href="/peer-interview">
+                  <Link href="https://mock-interview-self.vercel.app/">
                     Get Started <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
